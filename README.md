@@ -1,2 +1,23 @@
-# Modded-RSR
-Rolling Sky Remake
+------PACK 1------
+- Massif - 1UP Violet (Unofficial alt theme)
+- Sky - 8Bits
+- Forest - VR Fairyland
+- Desert (Sky) - Reggae
+- Volcano - Unlock the Future
+- Illusion - 1UP Gray
+- Desert (Beach) - Mental Rave
+- City (Cloud) - 1UP Violet
+- City (Light Gray) - Steam Era
+- City - UNSTABLE
+- Sci-Tech
+- Illusion (Sci-Tech) - UNSTABLE
+- Tetris (Violet)
+- Tetris (Blue)
+- E-Labyrinth (Blue) - Mechanical Power
+- E-Labyrinth (Violet)
+- CITS - Contains Reggae mover
+- Monody - Also contains Reggae mover
+- Deep Space (Blue) - Kepler's Dream
+- Deep Space (Green) - Stars
+- Candy (Daytime) - Sunset Glow
+- Candy (Nighttime) - Morning Dawn
